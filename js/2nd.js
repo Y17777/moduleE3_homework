@@ -13,3 +13,4 @@ function isPrime(num){
     }
 
 isPrime(num);
+

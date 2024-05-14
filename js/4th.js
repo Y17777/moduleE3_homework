@@ -11,3 +11,4 @@ function array (a, b) {
 }
 
 array(5, 15);
+

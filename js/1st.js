@@ -22,3 +22,4 @@ console.log('нечетных элементов: ', odd)
 console.log('нулей: ', zero)
 }
 elemCount();
+
